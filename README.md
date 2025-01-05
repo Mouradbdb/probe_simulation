@@ -47,11 +47,6 @@ A Pygame-based simulation where you control a space probe navigating through a d
 
 ```plaintext
 space_probe_simulation/
-│
-├── assets/
-│   ├── images/
-│   └── sounds/
-│
 ├── src/
 │   ├── __init__.py
 │   ├── main.py
